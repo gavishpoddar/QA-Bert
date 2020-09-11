@@ -9,9 +9,7 @@ test using
 
 python test.py
 
-run using 
-
-using server using docker
+or run using server using docker
 
 
 
